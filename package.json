@@ -4,5 +4,9 @@
   "description": "like clippy, but even more cringe inducing somehow",
   "main": "./lib/index",
   "author": "tilde ann thurium",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
 }
