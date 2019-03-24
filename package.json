@@ -9,6 +9,9 @@
     "request": "^2.88.0",
     "request-promise": "^4.2.4"
   },
+  "activationCommand": {
+    "atom-workspace": "dadjokes:toggle"
+  },
   "devDependencies": {
     "eslint": "^5.15.3"
   }
