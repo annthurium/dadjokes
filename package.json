@@ -1,5 +1,8 @@
 {
   "name": "dadjokes",
+  "activationCommands": {
+    "atom-workspace": "dadjokes:toggle"
+  },
   "version": "0.0.0",
   "description": "like clippy, but even more cringe inducing somehow",
   "main": "./lib/index",
